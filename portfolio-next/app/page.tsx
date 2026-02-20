@@ -14,7 +14,7 @@ export default function Home() {
           priority
         />
         <div className={styles.intro}>
-          <h1>O Marcelo é o maior sugador do mundo</h1>
+          <h1>Eai! Meu Portfolio está em fase de construção :)</h1>
           <p>
             Looking for a starting point or more instructions? Head over to{" "}
             <a
