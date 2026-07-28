@@ -1,8 +1,10 @@
 # [postnews](https://post-news-app.vercel.app/)
 
-O [postnews](https://post-news-app.vercel.app/) é um sistema de artigos e newsletter, que permite o usuário criar, postar, editar e ler artigos relacionados à área tech principalmente, onde utilizei Next.js, React e Node.js para criação do projeto.
+O [postnews](https://post-news-app.vercel.app/) é um sistema de artigos e newsletter, que permite o usuário criar, postar, editar e ler artigos relacionados à área tech principalmente.
 
-Ele foi desenvolvido a partir de uma excelente oportunidade para absorver os conhecimentos do curso.dev para criação de um projeto full-stack, utilizando tecnologias como JavaScript, NodeJS, NextJs, postgres entre outras.
+É uma aplicação Full Stack desenvolvida com Next.js, React, Node.js e PostgreSQL para gerenciamento e publicação de artigos. O projeto foi construído aplicando conceitos modernos de desenvolvimento web, incluindo APIs REST, migrations de banco de dados, testes automatizados, conteinerização com Docker e deploy contínuo na Vercel.
+
+O desenvolvimento segue um fluxo baseado em Issues e Milestones, permitindo documentar a evolução das funcionalidades e simular um ambiente colaborativo semelhante ao utilizado em projetos reais de software.
 
 Você pode acessar o projeto via WEB e também a api de status. A aplicação está em desenvolvimento, então conforme for lançando novos endpoints, irei atualizar tanto as issues do git hub, quanto este readme.
 
